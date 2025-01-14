@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRCPSERVICE-C#", "GRCPSERVICE-C#.csproj", "{F6A335A4-361B-43D9-BABE-AD513DEC58A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRPCSERVICE-C#", "GRPCSERVICE-C#.csproj", "{F6A335A4-361B-43D9-BABE-AD513DEC58A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

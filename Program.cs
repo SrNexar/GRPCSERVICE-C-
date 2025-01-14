@@ -1,6 +1,6 @@
-using GRCPSERVICE_C_.Services;
+using GRPCSERVICE_C_.Services;
 
-namespace GRCPSERVICE_C_
+namespace GRPCSERVICE_C_
 {
     public class Program
     {
