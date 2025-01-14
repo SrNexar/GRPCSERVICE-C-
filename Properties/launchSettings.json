@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "GRCPSERVICE-C#": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5291;https://localhost:7143",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
